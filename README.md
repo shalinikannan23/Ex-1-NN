@@ -88,48 +88,39 @@ print(len(x_test))
 
 DATASET:
 
-![image](https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/6258c482-3ac4-42a7-bbbe-4d77d1805ae8)
+<img height=45% width=34% align=top src="https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/6258c482-3ac4-42a7-bbbe-4d77d1805ae8">
 
 DROPPING THE UNWANTED DATASET:
 
-![image](https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/b8a01314-62ba-40bf-a710-44acddc07ebb)
+<img height=45% width=34% align=top src="https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/b8a01314-62ba-40bf-a710-44acddc07ebb">
 
 CHECKING NULL VALUES:
 
-![image](https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/bf72ec6b-6df3-4937-9110-d53e72dbc670)
+<img height=45% width=34% align=top src="https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/bf72ec6b-6df3-4937-9110-d53e72dbc670">
 
 CHECKING FOR DUPLICATION:
 
-![image](https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/567efbe2-458d-4746-9f98-569af1c17045)
+<img height=45% width=34% align=top src="https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/567efbe2-458d-4746-9f98-569af1c17045">
 
 DESCRIBING THE DATASET:
 
-![image](https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/8a0a5a6f-9b51-447f-8ebc-58bf1985bd58)
+<img height=45% width=34% align=top src="https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/8a0a5a6f-9b51-447f-8ebc-58bf1985bd58">
 
 SCALING THE DATASET:
 
-![image](https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/e0f4884c-b7c6-4eaf-9212-c80e360ce5d2)
+<img height=45% width=34% align=top src="https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/e0f4884c-b7c6-4eaf-9212-c80e360ce5d2">
 
 X FEATURES:
 
-![image](https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/34973f72-79bf-47ee-b363-9c5ede485e08)
+<img height=45% width=34% align=top src="https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/34973f72-79bf-47ee-b363-9c5ede485e08">
 
 Y FEATURES:
 
-![image](https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/e15a0d22-a9ef-4c67-b83b-f537ad5e942a)
+<img height=45% width=34% align=top src="https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/e15a0d22-a9ef-4c67-b83b-f537ad5e942a">
 
 SPLITTING THE TRAINING AND TESTING DATASET:
 
-![image](https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/75a0e3ed-65e8-4795-a112-0324ac96295e)
-
-
-
-
-
-
-
-
-
+<img Height=45% width=34% align=top src="https://github.com/shalinikannan23/Ex-1-NN/assets/118656529/75a0e3ed-65e8-4795-a112-0324ac96295e">
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
